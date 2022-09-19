@@ -3,8 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "DFA"]
-	path = DFA
-	url = https://github.com/victormesquita40/dfa
-	shallow = true
-	registered = true
